@@ -1,0 +1,746 @@
+<elements>
+    <element>
+        <name>H</name>
+        <structure>hcp</structure>
+        <a>0.375</a>
+        <c>0.612</c>
+        <density>0.076</density>
+        <ion>
+            <e>-1</e>
+            <radius>0.14</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>He</name>
+    </element>
+
+    <element>
+        <name>Li</name>
+        <structure>bcc</structure>
+        <a>0.35</a>
+        <density>0.534</density>
+        <ion>
+            <e>+1</e>
+            <radius>0.06</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Be</name>
+        <structure>hcp</structure>
+        <a>0.229</a>
+        <c>0.358</c>
+        <density>1.857</density>
+        <ion>
+            <e>+2</e>
+            <radius>0.031</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>B</name>
+        <density>2.33</density>
+        <ion>
+            <e>+3</e>
+            <radius>0.02</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>C</name>
+        <ion>
+            <e>+4</e>
+            <radius>0.015</radius>
+        </ion>
+        <ion>
+            <e>-4</e>
+            <radius>0.26</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>N</name>
+        <density>1.026</density>
+        <ion>
+            <e>+3</e>
+            <radius>0.171</radius>
+        </ion>
+        <ion>
+            <e>+5</e>
+            <radius>0.011</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>O</name>
+        <density>1.426</density>
+        <ion>
+            <e>-2</e>
+            <radius>0.14</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>F</name>
+        <ion>
+            <e>-1</e>
+            <radius>0.136</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Ne</name>
+        <structure>bcc</structure>
+        <a>0.452</a>
+    </element>
+
+    <element>
+        <name>Na</name>
+        <structure>bcc</structure>
+        <a>0.428</a>
+        <density>0.971</density>
+        <ion>
+            <e>+1</e>
+            <radius>0.095</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Mg</name>
+        <structure>hcp</structure>
+        <a>0.321</a>
+        <c>0.521</c>
+        <density>1.741</density>
+        <ion>
+            <e>+2</e>
+            <radius>0.065</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Al</name>
+        <structure>bcc</structure>
+        <a>0.405</a>
+        <density>2.699</density>
+        <ion>
+            <e>+3</e>
+            <radius>0.05</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Si</name>
+        <structure>diamond</structure>
+        <a>0.543</a>
+        <density>2.33</density>
+    </element>
+
+    <element>
+        <name>P</name>
+        <ion>
+            <e>-3</e>
+            <radius>0.212</radius>
+        </ion>
+        <ion>
+            <e>+5</e>
+            <radius>0.034</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>S</name>
+        <ion>
+            <e>-2</e>
+            <radius>0.184</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Cl</name>
+        <density>2.13</density>
+        <ion>
+            <e>-1</e>
+            <radius>0.181</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Ar</name>
+        <structure>bcc</structure>
+        <a>5.43</a>
+        <density>1.65</density>
+    </element>
+
+    <element>
+        <name>K</name>
+        <structure>bcc</structure>
+        <a>0.533</a>
+        <density>0.862</density>
+        <ion>
+            <e>+1</e>
+            <radius>0.133</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Ca</name>
+        <structure>bcc</structure>
+        <a>0.558</a>
+        <density>1.55</density>
+        <ion>
+            <e>+2</e>
+            <radius>0.099</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Sc</name>
+        <structure>many</structure>
+        <density>2.992</density>
+        <ion>
+            <e>+3</e>
+            <radius>0.081</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Ti</name>
+        <structure>many</structure>
+        <density>4.5</density>
+        <ion>
+            <e>+2</e>
+            <radius>0.090</radius>
+        </ion>
+        <ion>
+            <e>+3</e>
+            <radius>0.076</radius>
+        </ion>
+        <ion>
+            <e>+4</e>
+            <radius>0.068</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>V</name>
+        <structure>bcc</structure>
+        <a>0.303</a>
+        <density>5.98</density>
+        <ion>
+            <e>+2</e>
+            <radius>0.088</radius>
+        </ion>
+        <ion>
+            <e>+3</e>
+            <radius>0.074</radius>
+        </ion>
+        <ion>
+            <e>+4</e>
+            <radius>0.060</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Cr</name>
+        <structure>bcc</structure>
+        <a>0.288</a>
+        <density>7.189</density>
+        <ion>
+            <e>+2</e>
+            <radius>0.084</radius>
+        </ion>
+        <ion>
+            <e>+3</e>
+            <radius>0.069</radius>
+        </ion>
+        <ion>
+            <e>+6</e>
+            <radius>0.052</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Mn</name>
+        <structure>many</structure>
+        <density>7.0</density>
+        <ion>
+            <e>+2</e>
+            <radius>0.080</radius>
+        </ion>
+        <ion>
+            <e>+3</e>
+            <radius>0.066</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Fe</name>
+        <structure>many</structure>
+        <density>7.86</density>
+        <ion>
+            <e>+2</e>
+            <radius>0.076</radius>
+        </ion>
+        <ion>
+            <e>+3</e>
+            <radius>0.064</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Co</name>
+        <structure>many</structure>
+        <density>8.9</density>
+        <ion>
+            <e>+2</e>
+            <radius>0.074</radius>
+        </ion>
+        <ion>
+            <e>+3</e>
+            <radius>0.063</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Ni</name>
+        <structure>bcc</structure>
+        <a>0.325</a>
+        <density>8.845</density>
+        <ion>
+            <e>+2</e>
+            <radius>0.072</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Cu</name>
+        <structure>bcc</structure>
+        <a>0.361</a>
+        <density>8.93</density>
+        <ion>
+            <e>+2</e>
+            <radius>0.096</radius>
+        </ion>
+        <ion>
+            <e>+3</e>
+            <radius>0.070</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Zn</name>
+        <structure>hcp</structure>
+        <a>0.266</a>
+        <c>0.495</c>
+        <density>7.140</density>
+        <ion>
+            <e>+2</e>
+            <radius>0.074</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Ga</name>
+        <density>5.913</density>
+        <ion>
+            <e>+1</e>
+            <radius>0.113</radius>
+        </ion>
+        <ion>
+            <e>+3</e>
+            <radius>0.062</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Ge</name>
+        <structure>diamond</structure>
+        <a>0.566</a>
+        <density>5.35</density>
+        <ion>
+            <e>+2</e>
+            <radius>0.093</radius>
+        </ion>
+        <ion>
+            <e>+4</e>
+            <radius>0.053</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>As</name>
+        <ion>
+            <e>+5</e>
+            <radius>0.047</radius>
+        </ion>
+        <ion>
+            <e>-3</e>
+            <radius>0.222</radius>
+        </ion>
+
+    </element>
+
+    <element>
+        <name>Se</name>
+        <structure>hcp</structure>
+        <a>0.436</a>
+        <c>0.496</c>
+        <density>4.8</density>
+        <ion>
+            <e>-2</e>
+            <radius>0.198</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Br</name>
+        <density>4.107</density>
+        <ion>
+            <e>-1</e>
+            <radius>0.195</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Kr</name>
+        <structure>bcc</structure>
+        <a>0.507</a>
+    </element>
+
+    <element>
+        <name>Rb</name>
+        <structure>bcc</structure>
+        <a>0.561</a>
+        <density>1.522</density>
+        <ion>
+            <e>+1</e>
+            <radius>0.148</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Sr</name>
+        <structure>bcc</structure>
+        <a>0.608</a>
+        <density>2.615</density>
+        <ion>
+            <e>+2</e>
+            <radius>0.113</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Y</name>
+        <structure>hcp</structure>
+        <a>0.331</a>
+        <c>0.527</c>
+        <density>4.478</density>
+        <ion>
+            <e>+3</e>
+            <radius>0.093</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Zr</name>
+        <structure>many</structure>
+        <density>6.52</density>
+    </element>
+
+    <element>
+        <name>Nb</name>
+        <structure>bcc</structure>
+        <a>0.329</a>
+        <density>8.56</density>
+    </element>
+
+    <element>
+        <name>Mo</name>
+        <structure>bcc</structure>
+        <a>0.314</a>
+        <density>10.28</density>
+        <ion>
+            <e>+6</e>
+            <radius>0.062</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Tc</name>
+        <structure>hcp</structure>
+        <a>0.247</a>
+        <c>0.440</c>
+        <density>11.5</density>
+    </element>
+
+    <element>
+        <name>Ru</name>
+        <structure>hcp</structure>
+        <a>0.27</a>
+        <c>0.428</c>
+        <density>12.304</density>
+    </element>
+
+    <element>
+        <name>Rh</name>
+        <structure>many</structure>
+        <density>12.41</density>
+    </element>
+
+    <element>
+        <name>Pd</name>
+        <structure>bcc</structure>
+        <a>0.389</a>
+        <density>12.03</density>
+    </element>
+
+    <element>
+        <name>Ag</name>
+        <structure>bcc</structure>
+        <a>0.409</a>
+        <density>10.5</density>
+        <ion>
+            <e>+1</e>
+            <radius>0.126</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Cd</name>
+        <structure>hcp</structure>
+        <a>0.298</a>
+        <c>0.562</c>
+        <density>8.648</density>
+        <ion>
+            <e>+2</e>
+            <radius>0.097</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>In</name>
+        <structure>bcc</structure>
+        <a>0.5</a>
+        <density>7.282</density>
+        <ion>
+            <e>+1</e>
+            <radius>0.132</radius>
+        </ion>
+        <ion>
+            <e>+3</e>
+            <radius>0.081</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Sn</name>
+        <structure>many</structure>
+        <ion>
+            <e>+2</e>
+            <radius>0.112</radius>
+        </ion>
+        <ion>
+            <e>+4</e>
+            <radius>0.071</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Sb</name>
+        <density>6.69</density>
+        <ion>
+            <e>-3</e>
+            <radius>0.245</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Te</name>
+        <structure>hcp</structure>
+        <a>0.446</a>
+        <c>0.593</c>
+        <density>6.236</density>
+        <ion>
+            <e>-2</e>
+            <radius>0.221</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>I</name>
+        <ion>
+            <e>-1</e>
+            <radius>0.216</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Xe</name>
+        <structure>bcc</structure>
+        <a>0.624</a>
+        <density>2.7</density>
+    </element>
+
+    <element>
+        <name>Cs</name>
+        <structure>bcc</structure>
+        <a>0.605</a>
+        <density>1.87</density>
+        <ion>
+            <e>+1</e>
+            <radius>0.169</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Ba</name>
+        <structure>bcc</structure>
+        <a>0.503</a>
+        <density>3.5</density>
+        <ion>
+            <e>+2</e>
+            <radius>0.135</radius>
+        </ion>
+    </element>
+
+
+
+
+
+    <element>
+        <name>Hf</name>
+        <structure>hcp</structure>
+        <a>0.332</a>
+        <c>0.546</c>
+        <density>13.08</density>
+        <ion>
+            <e>+4</e>
+            <radius>0.081</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Ta</name>
+        <structure>bcc</structure>
+        <a>0.33</a>
+        <density>16.64</density>
+    </element>
+
+    <element>
+        <name>W</name>
+        <structure>bcc</structure>
+        <a>0.316</a>
+        <density>19.24</density>
+    </element>
+
+    <element>
+        <name>Re</name>
+        <structure>hcp</structure>
+        <a>0.276</a>
+        <c>0.446</c>
+        <density>21.3</density>
+    </element>
+
+    <element>
+        <name>Os</name>
+        <structure>hcp</structure>
+        <a>0.274</a>
+        <c>0.432</c>
+        <density>22.48</density>
+    </element>
+
+
+    <element>
+        <name>Ir</name>
+        <structure>bcc</structure>
+        <a>0.384</a>
+        <density>22.65</density>
+    </element>
+
+    <element>
+        <name>Pt</name>
+        <structure>bcc</structure>
+        <a>0.392</a>
+        <density>21.4</density>
+    </element>
+
+    <element>
+        <name>Au</name>
+        <structure>fcc</structure>
+        <a>0.408</a>
+        <density>19.3</density>
+        <ion>
+            <e>+1</e>
+            <radius>0.137</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Hg</name>
+        <density>14.2</density>
+        <ion>
+            <e>+2</e>
+            <radius>0.11</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Tl</name>
+        <structure>many</structure>
+        <density>11.85</density>
+        <ion>
+            <e>+1</e>
+            <radius>0.14</radius>
+        </ion>
+        <ion>
+            <e>+3</e>
+            <radius>0.095</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Pb</name>
+        <structure>bcc</structure>
+        <a>0.495</a>
+        <density>11.34</density>
+        <ion>
+            <e>+2</e>
+            <radius>0.12</radius>
+        </ion>
+        <ion>
+            <e>+4</e>
+            <radius>0.084</radius>
+        </ion>
+    </element>
+
+    <element>
+        <name>Bi</name>
+        <density>9.8</density>
+    </element>
+
+    <element>
+        <name>Po</name>
+    </element>
+
+    <element>
+        <name>At</name>
+    </element>
+
+    <element>
+        <name>Rn</name>
+    </element>
+
+    <element>
+        <name>Te</name>
+        <structure>hcp</structure>
+        <a>0.446</a>
+        <c>0.593</c>
+        <density>6.236</density>
+        <ion>
+            <e>-2</e>
+            <radius>0.221</radius>
+        </ion>
+    </element>
+
+</elements>

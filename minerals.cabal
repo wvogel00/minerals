@@ -1,0 +1,85 @@
+cabal-version: 1.12
+
+-- This file has been generated from package.yaml by hpack version 0.33.0.
+--
+-- see: https://github.com/sol/hpack
+--
+-- hash: 958f52c00703c76ddf231752fa42330054c1fe38ca0e2280341d7e0052030a6e
+
+name:           minerals
+version:        0.1.0.0
+description:    Please see the README on GitHub at <https://github.com/githubuser/minerals#readme>
+homepage:       https://github.com/githubuser/minerals#readme
+bug-reports:    https://github.com/githubuser/minerals/issues
+author:         Author name here
+maintainer:     example@example.com
+copyright:      2020 Author name here
+license:        BSD3
+license-file:   LICENSE
+build-type:     Simple
+extra-source-files:
+    README.md
+    ChangeLog.md
+
+source-repository head
+  type: git
+  location: https://github.com/githubuser/minerals
+
+library
+  exposed-modules:
+      Basic
+      CFParser
+      Mineral
+      Pauling
+      Type
+      XMLParser
+  other-modules:
+      Paths_minerals
+  hs-source-dirs:
+      src
+  build-depends:
+      base >=4.7 && <5
+    , directory
+    , linear
+    , not-gloss
+    , parsec >=3.1
+    , spatial-math >=0.5.0
+    , trifecta >=1.7
+  default-language: Haskell2010
+
+executable minerals-exe
+  main-is: Main.hs
+  other-modules:
+      Paths_minerals
+  hs-source-dirs:
+      app
+  ghc-options: -threaded -rtsopts -with-rtsopts=-N
+  build-depends:
+      base >=4.7 && <5
+    , directory
+    , linear
+    , minerals
+    , not-gloss
+    , parsec >=3.1
+    , spatial-math >=0.5.0
+    , trifecta >=1.7
+  default-language: Haskell2010
+
+test-suite minerals-test
+  type: exitcode-stdio-1.0
+  main-is: Spec.hs
+  other-modules:
+      Paths_minerals
+  hs-source-dirs:
+      test
+  ghc-options: -threaded -rtsopts -with-rtsopts=-N
+  build-depends:
+      base >=4.7 && <5
+    , directory
+    , linear
+    , minerals
+    , not-gloss
+    , parsec >=3.1
+    , spatial-math >=0.5.0
+    , trifecta >=1.7
+  default-language: Haskell2010
